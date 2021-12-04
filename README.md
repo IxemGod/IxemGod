@@ -19,4 +19,4 @@ Facebook : www.facebook.com/Ixem.God
 
 Twitter : wwW.twitter.com/IxemGod
 
-Mail : Ixem45@gmail.com
+Mail : IxemGod@gmail.com
