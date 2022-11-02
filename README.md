@@ -5,7 +5,7 @@
 
 - 👨‍💻 Tous mes projets : [https://suscorp.go.yj.fr](https://suscorp.go.yj.fr)
 
-- 📫 Me contacter : **IxemGod@gmail.com**
+- 📫 Me contacter : **jaunet.axel.85@gmail.com**
 
 - ⚡ Fun fact : **J'aime le piment d'Espelette**
 
