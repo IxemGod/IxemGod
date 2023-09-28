@@ -1,5 +1,5 @@
-<h1 align="center">Salut 👋, Je m'appel IxemGod</h1>
-<h3 align="center">Une passion du Backend venant de France 🇫🇷</h3>
+<h1 align="center">Salut 👋, Je m'appelle IxemGod</h1>
+<h3 align="center">Une passion du Back-end venant de France 🇫🇷</h3>
 
 - 🔭 Je travail actuellement sur des malwares : **Endoloris, Avada Kedavra et Imperium**
 
