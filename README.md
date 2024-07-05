@@ -3,7 +3,7 @@
 
 - 🔭 Je travail actuellement sur des malwares : **Endoloris, Avada Kedavra et Imperium**
 
-- 👨‍💻 Tous mes projets : [https://suscorp.go.yj.fr](https://suscorp.go.yj.fr)
+- 👨‍💻 Tous mes projets : [https://suscorp.go.fr](https://suscorp.fr)
 
 - 📫 Me contacter : **jaunet.axel.85@gmail.com**
 
