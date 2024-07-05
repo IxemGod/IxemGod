@@ -1,7 +1,7 @@
 <h1 align="center">Salut 👋, Je m'appelle Axel</h1>
-<h3 align="center">Une passion du Back-end venant de France 🇫🇷</h3>
+<h3 align="center">Une passion du Back-end venant de Vendée 🇫🇷</h3>
 
-- 🔭 Je travail actuellement sur des malwares : **Endoloris, Avada Kedavra et Imperium**
+- 🔭 Je travail actuellement sur des site E-commerce : **SignalSphere, boutique-casse-tete.com**
 
 - 👨‍💻 Tous mes projets : [https://suscorp.go.fr](https://suscorp.fr)
 
