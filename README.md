@@ -1,4 +1,4 @@
-<h1 align="center">Salut 👋, Je m'appelle IxemGod</h1>
+<h1 align="center">Salut 👋, Je m'appelle Axel</h1>
 <h3 align="center">Une passion du Back-end venant de France 🇫🇷</h3>
 
 - 🔭 Je travail actuellement sur des malwares : **Endoloris, Avada Kedavra et Imperium**
@@ -6,8 +6,6 @@
 - 👨‍💻 Tous mes projets : [https://suscorp.go.fr](https://suscorp.fr)
 
 - 📫 Me contacter : **jaunet.axel.85@gmail.com**
-
-- ⚡ Fun fact : **J'aime le piment d'Espelette**
 
 <h3 align="left">Mes réseaux :</h3>
 <p align="left">
