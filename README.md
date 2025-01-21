@@ -1,9 +1,9 @@
 <h1 align="center">Salut 👋, Je m'appelle Axel</h1>
 <h3 align="center">Une passion du Back-end venant de Vendée 🇫🇷</h3>
 
-- 🔭 Je travail actuellement sur des site E-commerce : **boutique-casse-tete.com**
+- 🔭 Je travail actuellement sur une application en Kotlin : **Sentinelle**
 
-- 👨‍💻 Tous mes projets : [https://suscorp.go.fr](https://suscorp.fr)
+- 👨‍💻 Tous mes projets : [https://suscorp.fr](https://suscorp.fr)
 
 - 📫 Me contacter : **jaunet.axel.85@gmail.com**
 
