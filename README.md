@@ -41,6 +41,7 @@
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/349342/docker.svg" alt="Docker" width="40" height="40" />
 </p>
 
 ---
