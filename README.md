@@ -47,9 +47,9 @@
 ---
 
 ### 📊 Statistiques GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ixemgod&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanlup813&show_icons=true&theme=radical)
 
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=ixemgod&layout=compact&theme=radical)
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanlup813&layout=compact&theme=radical)
 
 ---
 
